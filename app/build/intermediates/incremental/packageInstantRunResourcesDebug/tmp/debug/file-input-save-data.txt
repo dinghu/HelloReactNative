@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Jan 28 17:30:47 CST 2019
+0.baseType=DIRECTORY
+0.base=D\:\\dev-adroid\\prjects\\rectNativeDemo\\HelloAndroid\\android\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+0.path=index.android.bundle
+0.set=ASSET
+count=1
